@@ -1,5 +1,5 @@
 body {
-  background: url("wallpaper.jpg") center center fixed;
+  background: url("wallpaper.jpg") repeat center center fixed;
 }
 
 h1 {
