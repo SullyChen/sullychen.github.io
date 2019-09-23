@@ -1,0 +1,39 @@
+body {
+  background: url("wallpaper.jpg") no-repeat center center fixed;
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 900%;
+	text-align: center;
+	margin-top: 14%;
+	line-height: 1;
+	font-family: 'Bookman';
+	padding-bottom: 0px;
+	margin-bottom: 50px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+  font-size: 120%;
+  font-family: 'Courier';
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+footer {
+  color: white;
+  font-family: 'Courier';
+  text-align: center;
+  font-size: 120%;
+  position: fixed;
+  bottom: 1%;
+  width: 100%;}

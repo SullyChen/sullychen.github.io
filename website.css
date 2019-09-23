@@ -1,0 +1,39 @@
+body {
+  background: url("wallpaper.jpg") no-repeat center center fixed;
+}
+
+h1 {
+	color: white;
+	font-size: 100%;
+	text-align: left;
+	margin-top: 1%;
+  margin-left: 5%;
+	padding-bottom: 0px;
+	margin-bottom: 10px;
+}
+
+p {
+  color: #ffffff;
+  font-family: 'Times New Roman';
+  background: #101010AA;
+  padding: 1%;
+  padding-top: 2%;
+  line-height: 1.5;
+  font-size: 115%;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+  font-size: 100%;
+  font-family: 'Times New Roman';
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
