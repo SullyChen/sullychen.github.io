@@ -1,0 +1,117 @@
+@article{chen2020irrationality,
+  title={The irrationality measure of $$\backslash$pi $ as seen through the eyes of cos ($ n $)},
+  author={Chen, Sully F and Pearse, Erin PJ},
+  journal={Elemente der Mathematik},
+  volume={75},
+  number={4},
+  pages={152--165},
+  year={2020}
+}
+
+@inproceedings{chen2019deep,
+  title={Deep Mindread: Using a Low-Cost Commercial EEG to Classify Brain Activity.},
+  author={Chen, Sully and Itti, Laurent},
+  booktitle={Harvard National Collegiate Research Conference},
+  year={2019}
+}
+
+@inproceedings{he2021spg,
+  title={SPG Pulse Transit Times as Markers  of Continuous Blood Pressure Monitoring in Humans.},
+  author={He, Yun and Hill, Brian and Quang, Timothy and Sadikov, Amir and Chen, Sully and Tromberg, Bruce},
+  booktitle={DIPHR \& DIR Joint Scientific Retreat},
+  year={2021}
+}
+
+@article{kruse2023satellite,
+  title={Satellite Monitoring of Terrestrial Plastic Waste},
+  author={Kruse, Caleb and Boyda, Edward and Chen, Sully and Karra, Krishna and Bou-Nahra, Tristan and Hammer, Dan and Mathis, Jennifer and Maddalene, Taylor and Jambeck, Jenna and Laurier, Fabien},
+  journal={PLoS ONE},
+  volume={18},
+  number={1},
+  year={2023}
+}
+
+@inproceedings{inkpen2022situ,
+  title={In situ catalytic formation of conjugated organic wires},
+  author={Inkpen, Michael S. and Chen, Sully},
+  booktitle={ACS Chicago (2022)},
+  year={2022}
+}
+
+@inproceedings{opem2023smartphone,
+  title={Smartphone-compatible NIRS for sleep apnea monitoring},
+  author={Opem, Nina and Sadikov, Amir and Chen, Sully F. and Quang, Timothy and Hill, Brian and Warren, Robert V. and Khayat, Rami and Benca, Ruth and Tromberg, Bruce},
+  booktitle={Proc. SPIE PC12375, Biophotonics in Exercise Science, Sports Medicine, Health Monitoring Technologies, and Wearables IV},
+  pages={PC123750E},
+  year={2023}
+}
+
+@inproceedings{venkatraman2023computer,
+  title={Computer Vision for the Identification of Tools in the Neurosurgical Operating Room: A Proof of Concept Study},
+  author={Venkatraman, Vishal and Zachem, Tanner and Chen, Sully and Spellicy, Samantha and Sykes, David AW and Bethell, Mikhail and Ntowe, Koumani and Tomar, Simona and Ross, Weston and Codd, Patrick},
+  booktitle={AANS 2023},
+  year={2023}
+}
+
+@article{labella2023asnr,
+  title={The ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge 2023: Intracranial Meningioma},
+  author={LaBella, Dominic and Adewole, Maruf and Alonso-Basanta, Michelle and Altes, Talissa and Anwar, Syed Muhammad and Baid, Ujjwal and Bergquist, Timothy and Bhalerao, Radhika and Chen, Sully and Chung, Verena and others},
+  journal={arXiv preprint arXiv:2305.07642},
+  year={2023}
+}
+
+@article{chen2023learned,
+  title={Learned Kernels for Interpretable and Efficient Medical Time Series Processing},
+  author={Chen, Sully F and Guo, Zhicheng and Ding, Cheng and Hu, Xiao and Rudin, Cynthia},
+  journal={arXiv preprint arXiv:2307.05385},
+  year={2023}
+}
+
+@inproceedings{czyszczon2022air,
+  title={Air-sensitive single molecular conductance measurements},
+  author={Czyszczon-Burton, Thomas and Lazar, Sawyer and Miao, Zelin and Chen, Sully and Inkpen, Michael},
+  booktitle={ACS Chicago (2022)},
+  year={2022}
+}
+
+@inproceedings{zachem2023classification,
+  title={Classification of Glioma and Metastatic Brain Tumors using Laser Induced Endogenous Fluorescence Spectroscopy and Machine Learning},
+  author={Zachem, Tanner J. and Sperber, Jacob and Chen, Sully and Komisarow, Jordan and Southwell, Derek and Friedman, Allan and Ross, Weston and Fecci, Peter and Goodwin, Rory and Codd, Patrick J.},
+  booktitle={Congress of Neurological Surgeons Annual Meeting},
+  year={2023}
+}
+
+@inproceedings{seas2023machine,
+  title={Machine Learning in the Diagnosis, Management, and Care of Patients with Low Back Pain: a Mapping Review of the Literature, Aided by a Large Language Model},
+  author={Seas, Andreas and Zachem, Tanner and Chen, Sully F. and Sykes, David and Tabarestani, Troy and Wissel, Benjamin and Gottfried, Oren and Goertz, Christine and Abd-El-Barr, Muhammad},
+  booktitle={Congress of Neurological Surgeons Annual Meeting},
+  year={2023}
+}
+
+@misc{chen2016autopilot,
+  title={Autopilot-tensorflow, 2016},
+  author={Chen, Sully},
+  journal={https://github.com/SullyChen/Autopilot-TensorFlow},
+  year={2016}
+}
+
+@misc{chen2018collection,
+  title={A collection of labeled car driving datasets},
+  author={Chen, Sully},
+  journal={https://github.com/SullyChen/driving-datasets},
+  year={2018}
+}
+
+@article{zachem2023computer,
+  title={Computer Vision for Increased Operative Efficiency via Identification of Instruments in the Neurosurgical Operating Room: A Proof-of-Concept Study},
+  author={Zachem, Tanner J and Chen, Sully F and Venkatraman, Vishal and Sykes, David AW and Prakash, Ravi and Spellicy, Samantha and Suarez, Alexander D and Ross, Weston and Codd, Patrick J},
+  journal={arXiv preprint arXiv:2312.03001},
+  year={2023}
+}
+
+@article{achiam2023gpt,
+  title={GPT-4 Technical Report},
+  author={Achiam, Josh and Adler, Steven and Agarwal, Sandhini and Ahmad, Lama and Akkaya, Ilge and Aleman, Florencia Leoni and Almeida, Diogo and Altenschmidt, Janko and Altman, Sam and Anadkat, Shyamal and others},
+  journal={arXiv preprint arXiv:2303.08774},
+  year={2023}
+}
