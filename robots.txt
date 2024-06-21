@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://sullychen.github.io/sitemap.xml
